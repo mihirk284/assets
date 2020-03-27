@@ -24,7 +24,7 @@ sudo apt-get install ros-kinetic-jderobot-assets
 |         | Kinetic | Melodic |
 |:-------:|:-------:|:-------:|
 | Branch  | [`kinetic-devel`](https://github.com/JdeRobot/assets/tree/kinetic-devel) | [`master`](https://github.com/JdeRobot/assets/tree/master)
-| Status  |  supported | supported |
+| Status  |  EOL Reached | supported |
 | Version | [version](http://repositories.ros.org/status_page/ros_kinetic_default.html?q=jderobot_assets) | [version](http://repositories.ros.org/status_page/ros_melodic_default.html?q=jderobot_assets) |
 
 <br /><br />
